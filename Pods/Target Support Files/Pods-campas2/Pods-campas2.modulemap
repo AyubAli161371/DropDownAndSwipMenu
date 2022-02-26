@@ -1,0 +1,6 @@
+framework module Pods_campas2 {
+  umbrella header "Pods-campas2-umbrella.h"
+
+  export *
+  module * { export * }
+}

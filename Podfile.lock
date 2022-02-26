@@ -1,0 +1,20 @@
+PODS:
+  - iOSDropDown (0.3.4)
+  - SwipeMenuViewController (4.1.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - SwipeMenuViewController
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SwipeMenuViewController
+
+SPEC CHECKSUMS:
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  SwipeMenuViewController: 94fac81cc192d9f08f218fe4c0c853569b735e1f
+
+PODFILE CHECKSUM: 82513e5af8c2395f7074ae7821e20a64a0243ba8
+
+COCOAPODS: 1.11.2
